@@ -1,0 +1,21 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Databases & Persistent Chroma Vector Store
+sessions.db
+backend/sessions.db
+chroma_store/
+backend/chroma_store/
+
+# Local Environment Keys & IDE Config
+.env
+.idea/
+.vscode/

@@ -15,7 +15,6 @@ chromadb==0.5.0
 # --- Clustering (Lineage Dashboard) ---
 umap-learn==0.5.5
 scikit-learn==1.4.1.post1
-hdbscan==0.8.33
 
 # --- Security & PII ---
 presidio-analyzer==2.2.353
