@@ -1,0 +1,2 @@
+[console_scripts]
+guardrail = ai_guardrail.cli:app
