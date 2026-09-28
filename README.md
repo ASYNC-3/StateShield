@@ -4,7 +4,7 @@ A real-time, multi-tiered AI Security Layer & Guardrail Proxy built for Enterpri
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```
 Streamlit UI (Port 8501) <---> FastAPI Proxy Gateway (Port 8000)
@@ -19,7 +19,7 @@ Streamlit UI (Port 8501) <---> FastAPI Proxy Gateway (Port 8000)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 d:\ZeAI\
@@ -50,7 +50,7 @@ d:\ZeAI\
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. Installation
 
@@ -82,7 +82,7 @@ Access the Live Dashboard UI at `http://localhost:8501`
 
 ---
 
-## 🧪 Testing the API Endpoints
+## Testing the API Endpoints
 
 - **Chat Pipeline (`POST /chat`):**
   ```powershell
